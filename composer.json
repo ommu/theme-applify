@@ -1,24 +1,30 @@
 {
-	"name": "ommu/applify",
-	"description": "Applify - App Landing Page for Ommu Platform",
+	"name": "ommu/appic",
+	"description": "Appic - Creative Mobile App HTML Landing Page Template",
 	"keywords": [
 		"theme",
 		"frontend",
+		"onepage",
+		"mobile app",
+		"landing page",
+		"mobile",
+		"app",
+		"landing",
 		"ommu",
 		"platform",
 		"ommu platform"
 	],
-	"homepage": "https://github.com/OmmuThemes/applify",
+	"homepage": "https://github.com/OmmuThemes/appic",
 	"type": "ommu-theme",
 	"license": "Apache-2.0",
 	"support": {
-		"issues": "https://github.com/OmmuThemes/applify/issues",
-		"wiki": "https://github.com/OmmuThemes/applify/wiki",
-		"source": "https://github.com/OmmuThemes/applify"
+		"issues": "https://github.com/OmmuThemes/appic/issues",
+		"wiki": "https://github.com/OmmuThemes/appic/wiki",
+		"source": "https://github.com/OmmuThemes/appic"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/OmmuThemes/applify.git"
+		"url": "https://github.com/OmmuThemes/appic.git"
 	},
 	"authors": [
 		{
@@ -28,8 +34,8 @@
 			"role": "Developer"
 		},
 		{
-			"name": "Codeytech",
-			"homepage": "https://themeforest.net/user/codeytech",
+			"name": "VladerThemes",
+			"homepage": "https://www.templatemonster.com/authors/5a05422a9c163/",
 			"role": "Creator"
 		}
 	],
