@@ -5,20 +5,19 @@
 		"theme",
 		"frontend",
 		"ommu",
-		"platform",
 		"ommu platform"
 	],
-	"homepage": "https://github.com/OmmuThemes/applify",
+	"homepage": "https://github.com/ommu/theme-applify",
 	"type": "ommu-theme",
 	"license": "Apache-2.0",
 	"support": {
-		"issues": "https://github.com/OmmuThemes/applify/issues",
-		"wiki": "https://github.com/OmmuThemes/applify/wiki",
-		"source": "https://github.com/OmmuThemes/applify"
+		"issues": "https://github.com/ommu/theme-applify/issues",
+		"wiki": "https://github.com/ommu/theme-applify/wiki",
+		"source": "https://github.com/ommu/theme-applify"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/OmmuThemes/applify.git"
+		"url": "https://github.com/ommu/theme-applify.git"
 	},
 	"authors": [
 		{
