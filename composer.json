@@ -1,15 +1,20 @@
 {
 	"name": "ommu/applify",
 	"description": "Applify - App Landing Page for Ommu Platform",
+	"type": "ommu-theme",
 	"keywords": [
 		"theme",
-		"frontend",
+		"applify",
+		"front-template",
+		"bootstrap4",
+		"one-page",
+		"landing-page",
 		"ommu",
-		"ommu platform"
+		"ommu-platform",
+		"yii2"
 	],
-	"homepage": "https://github.com/ommu/theme-applify",
-	"type": "ommu-theme",
 	"license": "Apache-2.0",
+	"homepage": "https://github.com/ommu/theme-applify",
 	"support": {
 		"issues": "https://github.com/ommu/theme-applify/issues",
 		"wiki": "https://github.com/ommu/theme-applify/wiki",
@@ -23,7 +28,7 @@
 		{
 			"name": "Putra Sudaryanto",
 			"email": "putra@sudaryanto.id",
-			"homepage": "https://putra.sudaryanto.id",
+			"homepage": "https://sudaryanto.id",
 			"role": "Developer"
 		},
 		{
@@ -33,10 +38,7 @@
 		}
 	],
 	"require": {
-		"php": ">=5.3.2",
-		"oomphinc/composer-installers-extender": "^1.0",
-		"yiisoft/yii": "1.1.*"
-	},
-	"require-dev": {
+		"php": "~7.0",
+		"yiisoft/yii2": "~2.0.14"
 	}
 }
